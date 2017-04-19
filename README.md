@@ -3,7 +3,7 @@ a c++17 header library that implements a user-defined literals operator for a co
 ### Example
 
 ```c++
-#inculde "include/format.hpp"
+#include "include/format.hpp"
 #include <iostream>
 
 int main()
